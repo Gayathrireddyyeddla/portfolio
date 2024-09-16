@@ -1,49 +1,47 @@
-## GatorChefs
+## GatorChefs - Recipe sharing tool
 Description
 - ![600x200](../assets/gatorchefs.png)
 - Tags: Web Development
 - Badges:
   - ReactJs, NodeJs, MongoDB, CloudFlare, OpenAI [blue]
 - Buttons:
-  - Link [https://github.com/vijayrao110125/GatorChefs]
+  - Link [https://github.com/saisanthosh9652/GatorChefs]
 - Description1
-  - Developed a responsive web app using React.js and Node.js, boosting recipe documentation efficiency by 40% with automatic ingredient extraction via OpenAI, and utilizing MongoDB for scalable user and recipe data storage, improving data management efficiency by 30%.
-  - Integrated OAuth for secure account creation and authentication, enhancing user security and accessibility by 25%, and implemented Cloudflare for image storage, reducing image load times by  15% and providing users with flexible options for uploading or generating images based on recipe details.
-  - Integrated and deployed APIs on cloud via CI/CD pipelines, resulting in a 30% reduction in deployment time.
+  - Developed a full-stack web application, reducing recipe sharing time by 50% by automating key tasks such as recipe descriptions and ingredient categorization using OpenAI SDK, integrated with React, Node.js, and MongoDB.
+  - Achieved 95% user authentication success rate through Clerk integration, and optimized image serving speed by 30% using Cloudflare Images, ensuring seamless performance across major desktop and mobile browsers.
+  - Enhanced community safety by implementing AI-powered spam filtration, allergen detection, and health insights, improving content accuracy and safety by 40%.
 
-## Shopping Through Live Streaming
+## Vaccine Management System
 Description
-- ![600x200](../assets/shopping.png)
+- ![600x200](../assets/vaccine.png)
 - Tags: Web Development
 - Badges:
-  - Java, WebRtc, XML, PHP [blue]
-- Buttons:
-  - Link []
+  - Java, Spring Boot, JPA Hibernate, Spring cloud config, Junit, Angular [blue]
+
 - Description1
-  - Engineered an innovative Android application that integrates live streaming with a rating system, enabling real-time purchasing decisions and enhancing end-user engagement by 30%. Utilized Java, MySQL and PHP.
-  - Resulting in a 40% increase in user interaction and a 25% rise in transaction completion rates.Demonstrating effectiveness and efficiency in Consumer engagement and sales processes.
+  - Designed and implemented a microservice-based architecture with separate services for user management and vaccine management, connected via Netflix Eureka for service discovery.
+  - Utilized Spring Cloud Config for real-time configuration updates and Spring Gateway to implement a gateway for accessing the core application.
+  - Built with Angular for the frontend, and JPA Hibernate for data persistence, ensuring thorough testing with JUnit and Mockito for backend reliability.
 
 ## GatorTaxi
 Description
 - ![600x200](../assets/ride.jpeg)
 - Tags: Web Development
 - Badges:
-  - C++, bash, Hipergator [blue]
-- Buttons:
-  - Link [https://github.com/vijayrao110125/GatorTaxi]
+  - Java, bash, Hipergator [blue]
+
 - Description1
-  - Architected a cutting-edge ride-sharing program in C++ employing Red-Black Trees and Min-Heaps, achieving logarithmic time complexity (O(log N) to enhance system speed by 20% and ensure seamless customer experience.
+  - Architected a ride-sharing program in java employing Red-Black Trees and Min-Heaps, achieving logarithmic time complexity (O(log N) to enhance system speed by 20% and ensure seamless customer experience.
   - This resulted in a 50% improvement in ride-matching speeds and a 40% increase in overall system throughput.
   - Optimized ride request management with custom RBT and Min-Heap, yielding a 43% performance boost while synchronizing data structures for efficient ride-sharing services.
 
-## Android Malware Detection
+## Detection of Leaf diseases using CNN
 Description
-- ![600x200](../assets/malware-android.jpg)
+- ![600x200](../assets/rice.png)
 - Tags: Machine Learning
 - Badges:
-  - Python, Flask, Keras, TensorFlow [blue]
-- Buttons:
-  - Link []
+  - Python, Django, Angular, Keras, TensorFlow [blue]
+
 - Description1
-  - Developed a machine learning platform capable of predicting Android app malware with 90% precision, significantly enhancing system security and user trust.
-  - Engineered a user-friendly web interface to streamline malware detection, enhancing functionality and user interaction.
+  - Conducted detailed EDA to identify intricate relationships between dataset features, uncovering patterns and insights for model development.
+  - Developed a machine learning model and a fully functional website using Angular and Django for early-stage leaf disease detection, leveraging CNNs to achieve a 32% accuracy improvement.

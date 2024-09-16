@@ -1,32 +1,37 @@
-## University Of Florida
+## University Of Florida - IFAS
 - *Software Engineer* | Apr'23 - Present
-- ![logo512](../assets/gator.jpeg)
+- ![logo512](../assets/gator.png)
 - Tags: Research
 - Badges:
   - Research [blue]
 - List Items:
-  - Led the development of advanced crop modeling techniques under Dr. Charlie Messina’s mentorship, utilizing sophisticated tools like Easy Pheno Optimizer and NelderMead Optimizer to refine predictive accuracy.
-  - Significantly enhanced crop yield predictions, achieving a 12% improvement in accuracy through advanced Python programming and comprehensive analysis of crop interactions with varying weather conditions and soil types.
-  - Pioneered the implementation of innovative crop management strategies, leading to a 20% increase in agricultural yields by optimizing botanical characteristics tailored to specific environmental conditions.
+  - Designed and implemented a sophisticated architecture for determining the best chemicals for plant growth in diverse environments and soil types, utilizing genomic and phenotypic data.
+  - Leveraged Python's MPI and CUDA-enabled GPUs to achieve a 40% reduction in processing time for parallel data tasks.
+  - Integrated advanced optimization techniques such as Nelder-Mead, easyPheno, and Particle Swarm Optimization, improving precision by 20% and boosting overall model performance by 25%.
+  - Extracted and visualized chemical parameters using Python, R, Seaborn, and Tableau, leading to deeper insights and enhancing data-driven research outcomes.
 
-## Darwinbox Digital Solutions PVT LTD
-- *Software Engineer* | May'22 - Nov'22
-- ![logo512](../assets/darwinbox.png)
+## Epam Systems
+- *Software Development Engineer* | Oct'21 - Dec'22
+- ![logo512](../assets/epam.png)
 - Tags: Full Time
 - Badges:
   - Full Time [blue]
 - List Items:
-  - Served as a key full-stack developer, enhancing and maintaining the company’s HR software using Node.js and Java. Led both front-end and back-end developments, collaborating effectively within a cross-functional team to achieve a 20% improvement in application functionality and customer experience.
-  - Designed and executed comprehensive unit testing scenarios using Java, leading to a 30% increase in code coverage. This initiative significantly enhanced the robustness and reliability of the codebase.
-  - Integrated and deployed APIs on AWS cloud via CI/CD pipelines, resulting in a 30% reduction in deployment time.
-  - Collaborated within cross-functional teams to prioritize code quality and integration in the MVC ecosystem, resulting in a 20% escalation in feature delivery rate.
+  - Engaged as a full-stack developer, contributing to the development and maintenance of internal applications for Google Maps, involving both front-end and back-end tasks, and collaborating with a cross-functional team to increase the optimal functionality and user experience of the applications.
+  - Migrated legacy SOAP APIs to REST APIs and developed new RESTful APIs using Spring Boot and Java, implementing a microservices architecture. This transition contributed to a 32% reduction in latency, enhancing overall system performance.
+  - Developed plugins for data collection used for maps with Python, Google Colab, and Protocol Buffers.
+  - Designed, developed, and maintained highly scalable and low-latency RESTful and gRPC-based Java microservices from scratch, capable of processing large files and facilitating a secure approval workflow.
+  - Developed comprehensive unit test cases using JUnit and Mockito, leading to a substantial improvement in code coverage by 41%.
+  - Worked closely with DevOps teams to manage deployment on GCP using Docker containers and Kubernetes clusters, achieving a 10% reduction in deployment times and significantly improving system scalability, resilience, and resource allocation.
+  - Played a significant part in mentoring and providing advice to interns, conducting code reviews that resulted in a 23% decrease in the number of bugs and a noticeable improvement in overall code readability.
 
-## Darwinbox Digital Solutions PVT LTD
-- *Software Development Intern* | Jan'22 - May'22
-- ![logo512](../assets/darwinbox.png)
+## Epam Systems
+- *Software Development Engineer Intern* | May'21 - Sep'21
+- ![logo512](../assets/epam.png)
 - Tags: Internship
 - Badges:
   - Internship [blue]
 - List Items:
-  - Played a pivotal role in product creation as a Product Development Specialist, actively engaged in every stage from concept to market launch. Designed initiatives that accelerated development timelines by 15%, through the implementation of innovative solutions.
-  - Gained extensive experience in software lifecycle management, leading efforts to enhance product features and ensure alignment with market demands. These strategic enhancements led to an increase 25% in efficiency and market competitiveness
+  - Engaged collaboratively in an agile framework with cross-functional teams, actively participating in 100% of daily scrum sessions.
+  - Implemented key features as part of the development of EPAM’s internal Refer Portal application, improving referral process efficiency by 15%, which resulted in a 10% increase in user engagement and faster referral tracking.
+  - Participated in Agile-driven SDLC iterations, gaining hands-on experience in iterative development, continuous integration, and responsive adaptation to changing project requirements.

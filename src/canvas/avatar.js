@@ -49,7 +49,7 @@ const Avatar = () => {
   return (
     <div className="footer-avatar-container">
       <img
-        src="./assets/footer-avatar-vijay.png"
+        src="./assets/footer-avatar-santhosh.png"
         alt="animation-head"
         className="footer-avatar-img"
         id="footer-wala-avatar"

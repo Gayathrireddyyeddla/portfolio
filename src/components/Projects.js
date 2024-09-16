@@ -139,9 +139,7 @@ export default function Projects({ color }) {
                 ))}
             </Stack>
           </SimpleGrid>
-          <Text id='playstoreapps' color={"gray.100"} fontSize={"xl"} px={4}>
-            Google Playstore Apps
-          </Text>
+         
           {/* <Center px={4}>
             <ButtonGroup variant="outline">
               <Button
@@ -160,68 +158,7 @@ export default function Projects({ color }) {
               ))}
             </ButtonGroup>
           </Center> */}
-          <SimpleGrid columns={[1, 2]} px={4} spacing={4}>
-            {/* {others
-              .filter((other) => {
-                if (otherSelected === "All") {
-                  return true;
-                } else {
-                  return other.tags.includes(otherSelected);
-                }
-              }) */}
-              {others.map((other) => (
-                <Fade bottom>
-                  <Card key={other.name}>
-                    <Stack>
-                      <CardBody align="left" h={[null, "40vh"]}>
-                        <SimpleGrid columns={[1, 2]} px={0.2} spacing={0.2}>
-                          <Flex align="center">
-                            <Image height="50px" objectFit="cover" src={other.image} />
-                            <Box ml={4}>
-                              <Heading size="sm" whiteSpace="nowrap">{other.name}</Heading>
-                            </Box>
-                          </Flex>
-                        </SimpleGrid>
-                        <Text fontSize="sm" py={2}>
-                          {other.description}
-                        </Text>
-                        <HStack py={2}>
-                            {other.buttons.map((button) => (
-                              <a key={button.text} href={button.href} target="_blank" rel="noopener noreferrer">
-                                <Button color={`${color}.400`}>
-                                  {button.text}
-                                </Button>
-                              </a>
-                            ))}
-                          </HStack>
-                        {/* <HStack spacing={2}>
-                          {other.buttons.map((button) => (
-                            <Link
-                              key={button.text}
-                              href={button.href}
-                              color={`${color}.400`}
-                            >
-                              {button.text}
-                            </Link>
-                          ))}
-                        </HStack> */}
-                        <HStack flexWrap="wrap" pt={4} spacing={2}>
-                          {other.badges.map((badge) => (
-                            <Badge
-                              my={2}
-                              key={badge.text}
-                              colorScheme={badge.colorScheme}
-                            >
-                              {badge.text}
-                            </Badge>
-                          ))}
-                        </HStack>
-                      </CardBody>
-                    </Stack>
-                  </Card>
-                </Fade>
-              ))}
-          </SimpleGrid>
+          
         </Stack>
       </Container>
     </>

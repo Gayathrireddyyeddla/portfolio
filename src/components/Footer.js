@@ -18,7 +18,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2024 Vijay Thakkallapally. All rights reserved</Text>
+        <Text>© 2024 Saisanthosh Addla. All rights reserved</Text>
       </Container>
     </Box>
   );

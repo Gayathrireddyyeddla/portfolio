@@ -57,7 +57,7 @@ function App() {
   }, []);
 
 
-  const color = "teal";
+  const color = "blue";
 
   return (
     <>
