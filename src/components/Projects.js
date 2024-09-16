@@ -24,12 +24,12 @@ import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Fade } from "react-reveal";
 import { useState } from "react";
 import ProjectsArray from "./ProjectsArray";
-import OtherProjectsArray from "./OtherProjectsArray";
+// import OtherProjectsArray from "./OtherProjectsArray";
 import TagsArray from "./TagsArray";
 
 export default function Projects({ color }) {
   const projects = ProjectsArray();
-  const others = OtherProjectsArray();
+  // const others = OtherProjectsArray();
   const options = TagsArray("ProjectsTags");
 
   const [selected, setSelected] = useState("Web Development");
