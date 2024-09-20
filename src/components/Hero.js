@@ -26,7 +26,7 @@ export default function Header({ color }) {
   };
   const Resume = () => {
     window.open(
-      "/assets/saisanthosh_resume.pdf",
+      "/assets/gayathri_resume.pdf",
       "_blank",
       "noreferrer,noopener"
     );

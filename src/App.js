@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import StarsCanvas from './canvas/stars';
 import ComputersCanvas from './canvas/computer';
-import Avatar from './canvas/avatar';
+// import Avatar from './canvas/avatar';
 
 
 //const colors = ["teal", "blue", "grey"];
@@ -57,7 +57,7 @@ function App() {
   }, []);
 
 
-  const color = "blue";
+  const color = "pink";
 
   return (
     <>
@@ -67,7 +67,7 @@ function App() {
         <Nav color={color} />
         {isDesktop && (
           <div className="avatar-container">
-            <Avatar />
+          
           </div>
         )}
         <div className="header-container relative">

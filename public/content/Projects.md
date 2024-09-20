@@ -4,8 +4,7 @@ Description
 - Tags: Web Development
 - Badges:
   - ReactJs, NodeJs, MongoDB, CloudFlare, OpenAI [blue]
-- Buttons:
-  - Link [https://github.com/saisanthosh9652/GatorChefs]
+
 - Description1
   - Developed a full-stack web application, reducing recipe sharing time by 50% by automating key tasks such as recipe descriptions and ingredient categorization using OpenAI SDK, integrated with React, Node.js, and MongoDB.
   - Achieved 95% user authentication success rate through Clerk integration, and optimized image serving speed by 30% using Cloudflare Images, ensuring seamless performance across major desktop and mobile browsers.

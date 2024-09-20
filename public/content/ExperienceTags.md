@@ -1,3 +1,2 @@
-Research
 Full Time
 Internship

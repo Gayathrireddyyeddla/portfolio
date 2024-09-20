@@ -27,7 +27,7 @@ import TagsArray from "./TagsArray";
 
 export default function Education({ color }) {
   const education = EducationArray();
-  const options = TagsArray("ExperienceTags");
+  const options = TagsArray("EducationTags");
   const [selected, setSelected] = useState("");
 
   useEffect(() => {
