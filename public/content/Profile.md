@@ -6,7 +6,7 @@
 - Grad Student @ UFL
 
 ## About
-I am Gayathri Reddy Yeddla, a Master's student in Computer Science at the University of Florida, I am passionate about leveraging technology to solve complex problems and drive innovation. With a solid foundation in software engineering, I have gained extensive experience through both academic projects and professional roles.I am driven by a desire to continually learn and adapt to new challenges, and I thrive in fast-paced, Agile environments. My goal is to contribute to projects that push the boundaries of what technology can achieve, whether through innovative software solutions or cutting-edge research.
+I am a software engineer with a strong background in full-stack development and test automation. With hands-on experience in developing scalable web applications and optimizing testing frameworks, I specialize in leveraging cloud services, microservices architecture, and AI tools to create innovative solutions. Passionate about continuous improvement, I thrive in agile environments, delivering reliable, high-performance software to meet business needs.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/gayathri-reddy-yeddla/

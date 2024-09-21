@@ -5,7 +5,7 @@
 - Badges:
   - Master's [blue]
 - List Items:
-  - Analysis of Algorithms, Advanced Data Structures, Distributed Operating Systems, Advanced Computer Networks, Natural Language Processing, Computer and Information Security, Human Computer Interaction.
+  - Analysis of Algorithms, Advanced Data Structures, Distributed Operating Systems, Advanced Computer Networks, Computer and Information Security, Human Computer Interaction.
 
 ## Gokaraju Rangaraju Institute of Engineering and Technology
 - *B.Tech in Computer Science and Engineering - GPA 9.53/10* | Aug'16 - Sep'20
